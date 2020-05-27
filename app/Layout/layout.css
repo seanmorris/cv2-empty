@@ -1,0 +1,8 @@
+.layout {
+	flex: 1 0 1em;
+	flex-direction: row;
+	display:        flex;
+	min-height:     100%;
+	align-items: center;
+	justify-content: center;
+}
